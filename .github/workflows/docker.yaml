@@ -7,9 +7,9 @@ on:
 
 
 env:
-  ALIYUN_REGISTRY: "crpi-mzamidcq77irwdvc.cn-shanghai.personal.cr.aliyuncs.com "
+  ALIYUN_REGISTRY: "crpi-mzamidcq77irwdvc.cn-shanghai.personal.cr.aliyuncs.com"
   ALIYUN_NAME_SPACE: "linwh-images"
-  ALIYUN_REGISTRY_USER: "lin_wei_hua "
+  ALIYUN_REGISTRY_USER: "lin_wei_hua"
   ALIYUN_REGISTRY_PASSWORD: "shi123456"
 
 jobs:
